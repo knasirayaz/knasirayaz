@@ -31,18 +31,18 @@
    <a href="https://developers.google.com/profile/u/knasirayaz" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/android/android-original.svg" alt="aws" width="40" height="40" />
     </a>
-   <a href="appledev" target="_blank" rel="noreferrer">
+   <a href="https://developer.apple.com/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Apple_logo_grey.svg" alt="aws" width="40" height="40" />
     </a>
    
-  <a href="appledev" target="_blank" rel="noreferrer">
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40" />
     </a>
      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /> </a>
      <a href="https://ktor.io/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ktor/ktor-original.svg" alt="aws" width="40" height="40" />  </a>
-        <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/wordpress/wordpress-original.svg" alt="firebase" width="40" height="40" /> </a>
+        <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/wordpress/wordpress-original.svg" alt="firebase" width="40" height="40" /> </a>
 <h2>Languages</h2>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kotlin/kotlin-original.svg" alt="aws" width="40" height="40" />
@@ -50,7 +50,7 @@
    <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original-wordmark.svg" alt="aws" width="40" height="40" />
     </a>
-   <a href="appledev" target="_blank" rel="noreferrer">
+   <a href="https://www.swift.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/swift/swift-original.svg" alt="aws" width="40" height="40" />
     </a>
     <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40" /> </a>
@@ -58,41 +58,41 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
 <a href="https://rxjs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rxjs/rxjs-original.svg" alt="aws" width="40" height="40" /></a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
- <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/xml/xml-original.svg" alt="firebase" width="40" height="40" /> </a>
+ <a href="https://www.w3.org/xml" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/xml/xml-original.svg" alt="firebase" width="40" height="40" /> </a>
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
  
 <h2>IDE</h2>
     <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/androidstudio/androidstudio-original.svg" alt="aws" width="40" height="40" />
     </a>
-      <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40" /> </a>
+      <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/xcode/xcode-original.svg" alt="xcode" width="40" height="40" /> </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" /> </a>
-   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="aws" width="40" height="40" />
+   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/intellij/intellij-original.svg" alt="aws" width="40" height="40" />
     </a>
-   
- <h2>Tools</h2>
+ <h2>Design Tools</h2>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
+<a href="https://helpx.adobe.com/support/xd.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/xd/xd-original.svg" alt="firebase" width="40" height="40" /> </a>
+  <a href="https://m3.material.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/materialui/materialui-original.svg" alt="aws" width="40" height="40" /></a>
+ <h2>Dev Tools</h2>
 <a href="https://developer.android.com/compose" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="aws" width="40" height="40" />
     </a>
     <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/junit/junit-original.svg" alt="aws" width="40" height="40" />
     </a>
-     <a href="https://m3.material.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/materialui/materialui-original.svg" alt="aws" width="40" height="40" /></a>
 <a href="https://mvnrepository.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/maven/maven-original.svg" alt="aws" width="40" height="40" /></a>
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/npm/npm-original-wordmark.svg" alt="aws" width="40" height="40" /></a>
-<a href="https://www.atlassian.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jira/jira-original.svg" alt="aws" width="40" height="40" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sqlite/sqlite-original.svg" alt="firebase" width="40" height="40" /> </a>
 <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/trello/trello-original.svg" alt="firebase" width="40" height="40" /> </a>    
-<a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/xd/xd-original.svg" alt="firebase" width="40" height="40" /> </a>
-<a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/yarn/yarn-original.svg" alt="firebase" width="40" height="40" /> </a>
-<a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/gradle/gradle-original.svg" alt="firebase" width="40" height="40" /> </a>
-<a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" alt="firebase" width="40" height="40" /> </a>
-<a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/gitlab/gitlab-original.svg" alt="firebase" width="40" height="40" /> </a>
-
+<a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/yarn/yarn-original.svg" alt="firebase" width="40" height="40" /> </a>
+<a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/gradle/gradle-original.svg" alt="firebase" width="40" height="40" /> </a>
+ <h2>Repos</h2>
+<a href="https://github.com/knasirayaz" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" alt="firebase" width="40" height="40" /> </a>
+<a href="https://gitlab.com/knasirayaz" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/gitlab/gitlab-original.svg" alt="firebase" width="40" height="40" /> </a>
+<a href="https://www.atlassian.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jira/jira-original.svg" alt="aws" width="40" height="40" /></a>
 </p>
 
 <h2> 🤝🏻 Connect with Me </h2>
