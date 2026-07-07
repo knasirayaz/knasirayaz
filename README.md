@@ -8,11 +8,13 @@
     to build seamless, high-performance mobile experiences.
 </p>
 <ul>
-    <li>✅ <strong>Android Expertise</strong> – Kotlin, Jetpack Compose, MVVM, Clean Architecture 🏗️</li>
-    <li>✅ <strong>Cross-Platform Development</strong> – React Native & Flutter for fast, scalable apps 🌍</li>
-    <li>✅ <strong>API Integrations</strong> – RESTful APIs, Firebase, third-party libraries 🔗</li>
-    <li>✅ <strong>Performance Optimization</strong> – Debugging, profiling, and improving UX ⚡</li>
-    <li>✅ <strong>Leadership & Collaboration</strong> – Led teams, worked with cross-functional stakeholders 👥</li>
+<li>✅ <strong>Android Expertise</strong> – Java, Kotlin, Jetpack Architecture Components, Compose 🤖</li>
+<li>✅ <strong>Architecture Mastery</strong> – MVI, MVVM, MVP, MVC, and Clean Architecture principles 📐</li>
+<li>✅ <strong>Cross-Platform Development</strong> – KMP, CMP, React Native, and Flutter for scalable apps 🌍</li>
+<li>✅ <strong>API Development & Integrations</strong> – Ktor (Client & Server), RESTful & SOAP APIs 🔗</li>
+<li>✅ <strong>Database & Storage</strong> – MongoDB, PostgreSQL, and Firebase Firestore 💾</li>
+<li>✅ <strong>Performance Optimization</strong> – Debugging, profiling, and improving UX ⚡</li>
+<li>✅ <strong>Leadership & Collaboration</strong> – Led teams, worked with cross-functional stakeholders 👥</li>
 </ul>
 
 <p>
