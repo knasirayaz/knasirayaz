@@ -3,7 +3,7 @@
 <p>👋 <strong>Hello there!</strong></p>
 
 <p>
-    I’m a passionate <strong>Mobile App Developer</strong> with <strong>10+ years of experience</strong> in crafting high-quality, user-friendly, and visually stunning applications. 
+    I’m a passionate <strong>Mobile App Developer</strong> with <strong>13+ years of experience</strong> in crafting high-quality, user-friendly, and visually stunning applications. 
     I specialize in <strong>Android (Kotlin, Jetpack Compose, MVVM, Clean Architecture)</strong> and cross-platform development using <strong>React Native ⚛️ & Flutter 🦋</strong> 
     to build seamless, high-performance mobile experiences.
 </p>
